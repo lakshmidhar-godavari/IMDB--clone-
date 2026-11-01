@@ -8,6 +8,7 @@ import { BrowserRouter, Routes, Route }
   from "react-router-dom"
 import Favourites from './components/Favourites';
 import PageNotFound from './components/PageNotFound';
+//start the function
 function App() {
   return (
     <>
